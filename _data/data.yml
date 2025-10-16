@@ -107,28 +107,28 @@ experiences:
         - Bee health protection: Monitored and safeguarded colony well-being.
         - Produced cosmetics: Created beauty products from bee-derived ingredients.
 
-    - role: Perfume Promoter
-      time: 2022 - 2023
-      company: IQ Perfumerie, Patras, Greece
-      details: |
-        Specialized in fragrance sales and customer guidance.
-        - Product presentation: Demonstrated scents, notes, and longevity to aid selections.
-        - Customer service: Answered queries and matched perfumes to personal styles.
-        - Sales promotion: Pushed deals, bundles, and upsells to increase revenue.
-        - Display organization: Kept shelves clean, organized, and inviting.
-        - Inventory control: Monitored stock levels for prompt fulfillment.
-        - Team collaboration: Partnered with sales staff for collective goals.
+- role: Perfume Promoter
+  time: 2022 - 2023
+  company: IQ Perfumerie, Patras, Greece
+  details: |
+    Specialized in fragrance sales and customer guidance.
+      - Product presentation: Demonstrated scents, notes, and longevity to aid selections.
+      - Customer service: Answered queries and matched perfumes to personal styles.
+      - Sales promotion: Pushed deals, bundles, and upsells to increase revenue.
+      - Display organization: Kept shelves clean, organized, and inviting.
+      - Inventory control: Monitored stock levels for prompt fulfillment.
+      - Team collaboration: Partnered with sales staff for collective goals.
 
-    - role: Building Cleaner
-      time: 2018 - 2020
-      company: Apartment Tenants, Kastoria, Greece
-      details: |
-        Maintained cleanliness in residential and common areas.
-        - Space cleaning and disinfection: Thoroughly sanitized offices, hallways, restrooms, and waiting areas per hygiene standards.
-        - Floor maintenance: Swept, mopped, and polished all surfaces.
-        - Supplies replenishment: Checked and refilled essentials like toilet paper and soaps.
-        - Glass and surface cleaning: Polished windows, mirrors, and fixtures.
-        - Reported issues: Notified supervisors of damages for timely repairs.
+- role: Building Cleaner
+  time: 2018 - 2020
+  company: Apartment Tenants, Kastoria, Greece
+  details: |
+    Maintained cleanliness in residential and common areas.
+      - Space cleaning and disinfection: Thoroughly sanitized offices, hallways, restrooms, and waiting areas per hygiene standards.
+      - Floor maintenance: Swept, mopped, and polished all surfaces.
+      - Supplies replenishment: Checked and refilled essentials like toilet paper and soaps.
+      - Glass and surface cleaning: Polished windows, mirrors, and fixtures.
+      - Reported issues: Notified supervisors of damages for timely repairs.
 
 projects:
   title: Projects
@@ -144,4 +144,6 @@ projects:
       tagline: "Involvement in a dramatic event raising awareness against gender-based violence."
 
 footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
