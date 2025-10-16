@@ -21,29 +21,24 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: Greek
-      level: Native
-
-    - idiom: Albanian
-      level: Proficient (C2)
-
-    - idiom: English
-      level: Independent (B2)
+      - idiom: Greek
+        level: Native
+      - idiom: Albanian
+        level: Proficient (C2)
+      - idiom: English
+        level: Independent (B2)
 
   interests:
     title: Interests
     info:
-    - item: Latin Dance (Salsa, Bachata, Rueda)
-      link:
-
-    - item: Theatre
-      link:
-
-    - item: Studying Theatre Books
-      link:
-
-    - item: Board Games
-      link:
+      - item: Latin Dance (Salsa, Bachata, Rueda)
+        link:
+      - item: Theatre
+        link:
+      - item: Studying Theatre Books
+        link:
+      - item: Board Games
+        link:
 
 career-profile:
   title: Career Profile
@@ -53,31 +48,32 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Bachelor's in Theatre Studies
-    university: University of Patras
-    time: 2020 - 2024
-    details: |
-      Department of Theatre Studies, Patras, Greece.
-      Website: https://www.theaterst.upatras.gr/
+    - degree: Bachelor's in Theatre Studies
+      university: University of Patras
+      time: 2020 - 2024
+      details: |
+        Department of Theatre Studies, Patras, Greece.
+        Website: https://www.theaterst.upatras.gr/
         - Focused on dramatic arts, performance, and cultural studies.
         - Participated in theatrical productions and academic events.
-  - degree: Vocational Diploma in Aesthetic Art Assistant, Makeup and Nail Art
-    university: 1st EPAL Kastoria
-    time: 2018 - 2020
-    details: |
-      Professional Lyceum, Kastoria, Greece.
-      Website: https://1epal-kastor.kas.sch.gr/
+
+    - degree: Vocational Diploma in Aesthetic Art Assistant, Makeup and Nail Art
+      university: 1st EPAL Kastoria
+      time: 2018 - 2020
+      details: |
+        Professional Lyceum, Kastoria, Greece.
+        Website: https://1epal-kastor.kas.sch.gr/
         - Specialized training in aesthetics, makeup application, and nail techniques.
         - Emphasized practical skills for creative and service-oriented professions.
 
 experiences:
   title: Experiences
   info:
-  - role: Sales Associate
-    time: Feb 2025 - Oct 2025
-    company: McDonald's, Patras, Greece
-    details: |
-      Provided exceptional customer service with politeness and prompt response to client needs, ensuring a pleasant shopping experience.
+    - role: Sales Associate
+      time: Feb 2025 - Oct 2025
+      company: McDonald's, Patras, Greece
+      details: |
+        Provided exceptional customer service with politeness and prompt response to client needs, ensuring a pleasant shopping experience.
         - Managed orders: Recorded, prepared, and processed in-store and phone orders.
         - Promoted products: Presented and encouraged purchases of new items to boost sales.
         - Organized displays and shelves: Arranged products to maintain an attractive and clean store image.
@@ -85,11 +81,12 @@ experiences:
         - Maintained hygiene and safety: Complied with food standards to ensure cleanliness.
         - Monitored inventory: Checked and replenished stock daily, reporting needs for reorders.
         - Collaborated with team: Worked with bakery staff to meet sales targets and ensure smooth operations.
-  - role: Bakery Sales Associate
-    time: Sep 2024 - Feb 2025
-    company: Achaiko Choriatiko, Patras, Greece
-    details: |
-      Delivered top-tier customer service, addressing needs courteously for a positive experience.
+
+    - role: Bakery Sales Associate
+      time: Sep 2024 - Feb 2025
+      company: Achaiko Choriatiko, Patras, Greece
+      details: |
+        Delivered top-tier customer service, addressing needs courteously for a positive experience.
         - Handled orders: Logged, prepared, and fulfilled in-store and telephonic requests.
         - Promoted products: Showcased new bakery items to drive sales.
         - Maintained displays: Organized shelves and showcases for visual appeal and cleanliness.
@@ -97,33 +94,36 @@ experiences:
         - Ensured hygiene: Adhered to food safety protocols.
         - Oversaw stock: Daily checks and restocking to guarantee availability.
         - Team cooperation: Contributed to group efforts for operational success.
-  - role: Beekeeping Assistant
-    time: Mar 2023 - Present
-    company: Independent, Patras, Greece
-    details: |
-      Supported apiculture operations with hands-on care and maintenance.
+
+    - role: Beekeeping Assistant
+      time: Mar 2023 - Present
+      company: Independent, Patras, Greece
+      details: |
+        Supported apiculture operations with hands-on care and maintenance.
         - Hive inspections: Regular checks for health and productivity.
         - Bee and hive management: Handled populations and structures effectively.
         - Harvested products: Collected honey and related yields.
         - Equipment maintenance: Upkept tools and materials.
         - Bee health protection: Monitored and safeguarded colony well-being.
         - Produced cosmetics: Created beauty products from bee-derived ingredients.
-  - role: Perfume Promoter
-    time: 2022 - 2023
-    company: IQ Perfumerie, Patras, Greece
-    details: |
-      Specialized in fragrance sales and customer guidance.
+
+    - role: Perfume Promoter
+      time: 2022 - 2023
+      company: IQ Perfumerie, Patras, Greece
+      details: |
+        Specialized in fragrance sales and customer guidance.
         - Product presentation: Demonstrated scents, notes, and longevity to aid selections.
         - Customer service: Answered queries and matched perfumes to personal styles.
         - Sales promotion: Pushed deals, bundles, and upsells to increase revenue.
         - Display organization: Kept shelves clean, organized, and inviting.
         - Inventory control: Monitored stock levels for prompt fulfillment.
         - Team collaboration: Partnered with sales staff for collective goals.
-  - role: Building Cleaner
-    time: 2018 - 2020
-    company: Apartment Tenants, Kastoria, Greece
-    details: |
-      Maintained cleanliness in residential and common areas.
+
+    - role: Building Cleaner
+      time: 2018 - 2020
+      company: Apartment Tenants, Kastoria, Greece
+      details: |
+        Maintained cleanliness in residential and common areas.
         - Space cleaning and disinfection: Thoroughly sanitized offices, hallways, restrooms, and waiting areas per hygiene standards.
         - Floor maintenance: Swept, mopped, and polished all surfaces.
         - Supplies replenishment: Checked and refilled essentials like toilet paper and soaps.
@@ -135,13 +135,13 @@ projects:
   intro: >
     Creative performances and artistic contributions highlighting theatrical involvement.
   assignments:
-  - title: "Don't Look" Performance
-    link: "#"
-    tagline: "Participation in a performance at the Third International Anthropology Conference, exploring anthropological themes through theatre."
+    - title: "Don't Look" Performance
+      link: "#"
+      tagline: "Participation in a performance at the Third International Anthropology Conference, exploring anthropological themes through theatre."
 
-  - title: Anti-Femicide Performance
-    link: "#"
-    tagline: "Involvement in a dramatic event raising awareness against gender-based violence."
+    - title: Anti-Femicide Performance
+      link: "#"
+      tagline: "Involvement in a dramatic event raising awareness against gender-based violence."
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
