@@ -1,4 +1,3 @@
-```yaml
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
@@ -37,18 +36,14 @@ sidebar:
     - item: Latin Dance (Salsa, Bachata, Rueda)
       link:
 
-
     - item: Theatre
       link:
-
 
     - item: Studying Theatre Books
       link:
 
-
     - item: Board Games
       link:
-
 
 career-profile:
   title: Career Profile
@@ -150,4 +145,3 @@ projects:
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-```
